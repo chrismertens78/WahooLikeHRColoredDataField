@@ -2,7 +2,7 @@ import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
 
-class HRDataFiledApp extends Application.AppBase {
+class HRDataFieldApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -23,6 +23,6 @@ class HRDataFiledApp extends Application.AppBase {
 
 }
 
-function getApp() as HRDataFiledApp {
-    return Application.getApp() as HRDataFiledApp;
+function getApp() as HRDataFieldApp {
+    return Application.getApp() as HRDataFieldApp;
 }
