@@ -23,7 +23,7 @@ This advanced data field for Garmin Edge devices offers a dynamic, color-coded b
 
 To install the Colored Heart Rate Zone Data Field:
 
-1. Visit the [Garmin Connect IQ Store page](https://apps.garmin.com/).
+1. Visit the [Garmin Connect IQ Store page](https://apps.garmin.com/apps/41a887fa-0a8e-425e-a75a-2c52410ddbb6).
 2. Click **Get it on your Garmin device**.
 3. Follow the instructions to install it on your compatible Garmin Edge device.
 
@@ -52,7 +52,7 @@ This data field is compatible with the following Garmin Edge models:
 - Edge 1040 / 1040 Solar
 - Edge 1050
 
-For the full list of supported devices, visit the [Garmin Connect IQ Store page](https://apps.garmin.com/).
+For the full list of supported devices, visit the [Garmin Connect IQ Store page](https://apps.garmin.com/apps/41a887fa-0a8e-425e-a75a-2c52410ddbb6).
 
 ## Contributions
 
