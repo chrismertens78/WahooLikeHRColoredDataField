@@ -64,7 +64,7 @@ class HRDataFieldView extends WatchUi.DataField {
     // once a second when the data field is visible.
     function onUpdate(dc as Dc) as Void {
         var hinter = View.findDrawableById("Background") as Text;
-        var hrz = UserProfile.getHeartRateZones(UserProfile.HR_ZONE_SPORT_GENERIC) as Array;
+        var hrz = UserProfile.getHeartRateZones(UserProfile.HR_ZONE_SPORT_BIKING) as Array;
 
         if (mValue > hrz[4]) {
             hinter.setColor(Graphics.COLOR_RED);
